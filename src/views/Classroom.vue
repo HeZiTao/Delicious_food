@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>课堂</h1>
+    <h1>课堂更新啦</h1>
   </div>
 </template>
 
